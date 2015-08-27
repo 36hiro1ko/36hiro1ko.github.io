@@ -137,6 +137,10 @@ header .container {
   box-shadow: 0 4px 10px #333;
 }
 
+ul#gallery li{
+ list-style: none;
+}
+
 
 ul#gallery li img{
     /* width: 580px; */
