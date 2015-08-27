@@ -27,10 +27,12 @@ $(function(){
                 
     }) 
     
-    
-
      
 });
+
+
+
+
 
 /*
 $(function() {
@@ -106,6 +108,8 @@ function leaf1() {
         setTimeout('leaf1()', 1600); //アニメーションを繰り返す間隔
 
 }
+
+
 
 
 
